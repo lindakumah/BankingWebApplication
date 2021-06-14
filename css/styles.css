@@ -1,7 +1,7 @@
 #myDiv {
     padding: 10px;
     border: 0;
-    background-color:  blue;
+    background-color:  #1abc9c;
     text-align: center;
     height: 150px;
     color: white;
@@ -43,13 +43,14 @@
 #s2{
     border: 1px;
     width: 400px;
-    background-color:lightgoldenrodyellow;
+    padding: 10px;
+    background-color:#fff;
     position: absolute;
     right: 100px;
     color: darkslategray;
 }
 .footer{
-    background-color: rgb(212, 212, 216);
+    background-color: #1abc9c;
     height: 30vh;
 }
  
